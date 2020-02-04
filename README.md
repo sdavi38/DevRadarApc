@@ -1,5 +1,5 @@
 # DevRadarApc
-Projeto feito com ReactJs, React Native e Node.js durante a Semana OmniStack 10
+Projeto feito com ReactJS, React Native e Node.js.
 
 Web: Para cadastrar os Devs, utilizando a Api do GitHub para obter dados como: foto,nome e bio. No lado direito da parte do cadastro aparecem os Devs já cadastrados.
 ![image](https://user-images.githubusercontent.com/55156476/72847532-8818dd00-3c81-11ea-8c60-737fa64bd1cf.png)
